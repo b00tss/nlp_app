@@ -14,5 +14,7 @@ You can visit the app in your browser on the following url:
 
     172.0.0.0.1:8000
 Use the following predefined user to login:
-    **username:** testApp
-    **password:** this2pass
+
+**username:** testApp
+
+**password:** this2pass
