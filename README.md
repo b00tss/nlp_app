@@ -13,7 +13,3 @@ You can now run the application with the run script:
 You can visit the app in your browser on the following url:
 
     172.0.0.0.1:8000
-You can login to the app with the following account:
-
-> username: testApp
-> password: 
