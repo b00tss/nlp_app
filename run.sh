@@ -11,5 +11,5 @@ docker run -iPt \
     --runtime=nvidia \
     --name="nlp_case" \
     --privileged \
-    chipix \
+    ciphix \
 
